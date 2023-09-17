@@ -56,6 +56,13 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "files.associations": {
-    "W2 10TO1.C": "cpp"
+    "W2 10TO1.C": "cpp",
+    "W3 51TO99.C": "cpp",
+    "W3_51TO99.C": "cpp",
+    "W6 NTON.C": "cpp",
+    "W5  NTO1.C": "cpp",
+    "W4  1TON.C": "cpp",
+    "W10 ATOZ.C": "cpp",
+    "3 DW FOR.C": "cpp"
   }
 }

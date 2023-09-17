@@ -7,7 +7,7 @@ int a=10;
 
 while(a>=1)
 	{
-	printf("%5d",a);
+	printf("%d",a);
 	a--;
 
 	}
